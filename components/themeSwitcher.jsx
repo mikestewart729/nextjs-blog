@@ -3,12 +3,13 @@
 import { useTheme } from "next-themes";
 import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import utilStyles from '../styles/utils.module.css';
 
 const ThemeSwitcher = () => {
     const { systemTheme, theme, setTheme } = useTheme();
     const currentTheme = theme === "system" ? systemTheme : theme;
     return (
-        <div>
+        <div className={utilStyles.centerButton}>
             <button
                 onClick={() => setTheme(currentTheme === "dark" ? "light" : "dark")}
                 type="button"
