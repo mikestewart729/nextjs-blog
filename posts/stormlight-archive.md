@@ -1,6 +1,6 @@
 ---
 title: "My Thoughts on Sanderson's Stormlight Archive, So Far"
-date: '2025-07-10'
+date: '2025-07-09'
 ---
 Lately I've been getting into Brandon Sanderson's Stormlight Archive. Clocking in at nearly 7000 pages, it can seem like a daunting task to read. Therefore, it's fortunate that I enjoy deep, well-crafted worlds and compelling characters. 
 
