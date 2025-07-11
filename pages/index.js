@@ -27,7 +27,10 @@ export default function Home({ allPostsData }) {
           For more of me, check out my <Link href="https://github.com/mikestewart729">GitHub</Link> and my <Link href="https://www.linkedin.com/in/michael-stewart-973786189/">LinkedIn</Link>.
         </p>
         <p>
-          (This is a sample website. I learned to build it by following the {' '}
+          My résumé can be found <Link href="/posts/resume">here</Link>.
+        </p>
+        <p>
+          (I learned to build this website by following the {' '}
           <a href="https://nextjs.org/learn">Next.js tutorial</a>.)
         </p>
       </section>
