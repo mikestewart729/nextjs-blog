@@ -1,5 +1,5 @@
 ---
-title: "Mike Stewart's Resume"
+title: "Mike Stewart's Résumé"
 date: '2025-07-11'
 ---
 
@@ -99,7 +99,7 @@ with mitigation strategies, which was implemented by the client to update their 
 
 _Doctor of Philosophy in Physics_ (2012-2020)
 
-PhD Thesis: Dynamics of Matter-Wave Quantum Emitters in Engineered Reservoirs
+PhD Thesis: Dynamics of Matter-Wave Quantum Emitters in Engineered Reservoirs (Has its own page [here](/posts/thesis))
 
 Publications: 
 

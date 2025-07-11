@@ -30,6 +30,9 @@ export default function Home({ allPostsData }) {
           My résumé can be found <Link href="/posts/resume">here</Link>.
         </p>
         <p>
+          My PhD thesis can be found <Link href="/posts/thesis">here</Link>.
+        </p>
+        <p>
           (I learned to build this website by following the {' '}
           <a href="https://nextjs.org/learn">Next.js tutorial</a>.)
         </p>
