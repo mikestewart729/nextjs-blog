@@ -17,6 +17,9 @@ export default function ThesisPage() {
                     </Link>
                 </p>
                 <p>
+                    For a more in-depth introduction, see <Link href="/posts/thesis-research-0">this page</Link>.
+                </p>
+                <p>
                     Quantum Mechanics postulates that matter in behaves both wave-like and particle-like at the same time. 
                     This opens up many fascinating observable consequences, among the most exciting of which is quantum computing. 
                     However, quantum systems are "delicate"; any small disturbance to an excited (high energy) quantum state 
