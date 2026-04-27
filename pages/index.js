@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Why hello there, if you're reading this, you've found my blog! I'm Mike, a PhD physicist and now tech guy, and I'm hoping to improve my writing skills and also share the things that interest me with all of you on this blog. My hobbies include learning languages (spoken and coding), video games, fantasy novels, baking, swimming, and more!</p>
+        <p>Why hello there, if you're reading this, you've found my blog! I'm Mike, a PhD physicist and now tech guy, and I'm hoping to improve my writing skills and also share the things that interest me with all of you on this blog. My hobbies include learning languages (spoken and coding), (musical) theater, video games, fantasy novels, baking, swimming, and more!</p>
         <p>僕のブログにようこそ！</p>
         <p>
           For more of me, check out my <Link href="https://github.com/mikestewart729">GitHub</Link> and my <Link href="https://www.linkedin.com/in/michael-stewart-973786189/">LinkedIn</Link>.
