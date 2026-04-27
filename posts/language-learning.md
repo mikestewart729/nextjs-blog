@@ -7,5 +7,6 @@ It will come as no surprise to anyone who knows me that I **love** languages. I'
 - **German**: Hallo, ich kann ein bisschen Deutsch sprechen!
 - **Korean**: 안녕하세요! 한국어를 좀 할 줄 알아요. 
 - **Japanese**: こんにちは、日本語を勉強したいですよ。
+- **Spanish**: ¡Hola! ¿Qué tal? Puedo hablar un poco de español.
 
 I've also dabbled in almost anything else you can name, including **Swedish**, **Dutch**, **Welsh**, and even **Arabic**, but I'm not particularly conversant in any of them. If you feel like sharing your love of language with me, I'd be delighted to learn from you!

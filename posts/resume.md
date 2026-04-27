@@ -1,6 +1,6 @@
 ---
 title: "Mike Stewart's Résumé"
-date: '2025-07-11'
+date: '2026-04-26'
 ---
 
 Michael A. Stewart, PhD
@@ -29,9 +29,22 @@ _Project Management:_ AGILE Methodology, Jira, Asana, Scope Management
 
 **Work Experience**
 
+***Quick Custom Intelligence | New York, NY***
+
+**Data Scientist** (April 2026 - Present)
+
+_Selected Experience:_
+
+- Work closely with senior management to streamline projects and milestone tracking, as well as
+ensure all work gets done on time and on budget.
+- Assist teams across the organization with client communication, data verification, and data science
+initiatives. 
+- Develop and deploy code for internal systems as well as client-facing systems in a combination of 
+Python and SQL.
+
 ***Princeton Consultants | New York, NY***
 
-**Consultant** (June 2023 - Present)
+**Consultant** (June 2023 - March 2026)
 
 Senior Associate II (June 2022 - June 2023), Senior Associate (March 2021)
 
